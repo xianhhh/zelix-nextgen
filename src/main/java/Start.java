@@ -1,5 +1,3 @@
-package mcp.client;
-
 import java.util.Arrays;
 
 import net.minecraft.client.main.Main;
